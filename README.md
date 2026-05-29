@@ -195,27 +195,16 @@ A    |     F ──40── H
 
 ---
 
-## 🚀 Posibles mejoras futuras
-
-- [ ] Integrar datos geográficos reales de OpenStreetMap
-- [ ] Implementar el algoritmo de Dijkstra como referencia adicional
-- [ ] Agregar pesos dinámicos que simulen tráfico en tiempo real
-- [ ] Implementar A\* bidireccional para mayor eficiencia
-- [ ] Exportar a aplicación web con Streamlit
-- [ ] Soporte para grafos dirigidos (calles de un solo sentido)
-
----
-
 ## 👥 Equipo
 
 Proyecto desarrollado como parte del curso de **Inteligencia Artificial**.
 
-| Integrante | Carné |
-|------------|-------|
-| Nombre 1 | 000000 |
-| Nombre 2 | 000000 |
-| Nombre 3 | 000000 |
-| Nombre 4 | 000000 |
+|           Integrante            |     Carné    |
+|---------------------------------|--------------|
+| Jeremy Alejandro de León Roa    | 0900 22 2413 |
+| Santiago Benjamin Canel Escobar | 0900 22 1504 |
+| Gabriel Figueros Cardona        | 0900 22 9287 |
+| Josue Fernando Tumax Baquiax    | 0900 22 8742 |
 
 ---
 

@@ -94,6 +94,7 @@ cd optimizacion-rutas-ia
 
 **2. Ejecutar la aplicación**
 ```bash
+brew install python-tk@3.14 (Unicamente para MAC)
 python optimizacion_rutas_gui.py
 ```
 
